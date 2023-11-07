@@ -52,4 +52,7 @@
         }
     },
     "license": "LGPL-2.1-only"
+    "scripts": {
+        "test": "vendor/bin/phpunit"
+    }
 }
